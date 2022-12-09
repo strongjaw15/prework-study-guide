@@ -10,7 +10,7 @@ The main content of the page is displayed on the page, and if you open up dev to
 
 ## Credits
 
-https://github.com/bennett-wenger helped refine the color scheme. This webpage is based on the instruciton received in the Unicersity of Minnesota Web Developer Bootcamp Prework Module.
+https://github.com/bennett-wenger helped refine the color scheme. This webpage is based on the instruciton received in the University of Minnesota Web Developer Bootcamp Prework Module.
 
 ## License
 
